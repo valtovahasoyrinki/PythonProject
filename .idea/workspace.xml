@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6146131-9875-41db-a725-a927c5c667d7" name="Changes" comment="Vko 2 tehtävät">
-      <change afterPath="$PROJECT_DIR$/viikko.3/teht.3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/viikko.3/teht.3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/viikko.3/teht.3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/viikko.3/teht.3.4.py" afterDir="false" />
+    <list default="true" id="f6146131-9875-41db-a725-a927c5c667d7" name="Changes" comment="Vko 3 tehtävät">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viikko.3/teht.3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/viikko.3/teht.3.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,7 @@
       <updated>1770205985497</updated>
       <workItem from="1770205986563" duration="5077000" />
       <workItem from="1770367555621" duration="4770000" />
-      <workItem from="1770807311390" duration="7407000" />
+      <workItem from="1770807311390" duration="7866000" />
     </task>
     <task id="LOCAL−00001" summary="Teht.1">
       <option name="closed" value="true" />
@@ -126,7 +123,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1770382825903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Vko 3 tehtävät">
+      <option name="closed" value="true" />
+      <created>1770814753225</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1770814753225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +140,8 @@
     <MESSAGE value="Teht.1" />
     <MESSAGE value="Teht.2&#10;teht.2" />
     <MESSAGE value="Vko 2 tehtävät" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vko 2 tehtävät" />
+    <MESSAGE value="Vko 3 tehtävät" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vko 3 tehtävät" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
