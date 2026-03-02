@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6146131-9875-41db-a725-a927c5c667d7" name="Changes" comment="Vko 3 tehtävät">
+      <change afterPath="$PROJECT_DIR$/viikko.4/teht.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viikko.4/teht.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viikko.4/teht.4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viikko.4/teht.4.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/viikko.3/teht.3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/viikko.3/teht.3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viikko.3/teht.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/viikko.3/teht.3.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +67,10 @@
     "Python.teht.3.2.executor": "Run",
     "Python.teht.3.3.executor": "Run",
     "Python.teht.3.4.executor": "Run",
+    "Python.teht.4.1.executor": "Run",
+    "Python.teht.4.2.executor": "Run",
+    "Python.teht.4.3.executor": "Run",
+    "Python.teht.4.4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -93,7 +101,10 @@
       <updated>1770205985497</updated>
       <workItem from="1770205986563" duration="5077000" />
       <workItem from="1770367555621" duration="4770000" />
-      <workItem from="1770807311390" duration="7866000" />
+      <workItem from="1770807311390" duration="9340000" />
+      <workItem from="1772016364993" duration="6166000" />
+      <workItem from="1772089418873" duration="41000" />
+      <workItem from="1772459450546" duration="2008000" />
     </task>
     <task id="LOCAL−00001" summary="Teht.1">
       <option name="closed" value="true" />
@@ -130,7 +141,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1770814753225</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Vko 3 tehtävät">
+      <option name="closed" value="true" />
+      <created>1770817840288</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1770817840288</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,16 +173,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$d.coverage" NAME="d Coverage Results" MODIFIED="1770813447945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
-    <SUITE FILE_PATH="coverage/PythonProject$teht_3_4.coverage" NAME="teht.3.4 Coverage Results" MODIFIED="1770814510370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
-    <SUITE FILE_PATH="coverage/PythonProject$teht_3_2.coverage" NAME="teht.3.2 Coverage Results" MODIFIED="1770810296793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
-    <SUITE FILE_PATH="coverage/PythonProject$teht_2_4.coverage" NAME="teht.2.4 Coverage Results" MODIFIED="1770381311826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.2" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_3_4.coverage" NAME="teht.3.4 Coverage Results" MODIFIED="1770817645509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_4_2.coverage" NAME="teht.4.2 Coverage Results" MODIFIED="1772020615080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.4" />
     <SUITE FILE_PATH="coverage/PythonProject$teht_2_2.coverage" NAME="teht.2.2 Coverage Results" MODIFIED="1770380363052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.2" />
     <SUITE FILE_PATH="coverage/PythonProject$teht_2_5.coverage" NAME="teht.2.5 Coverage Results" MODIFIED="1770807570301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.2" />
-    <SUITE FILE_PATH="coverage/PythonProject$teht_1_1.coverage" NAME="teht.1.1 Coverage Results" MODIFIED="1770206064454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.1" />
-    <SUITE FILE_PATH="coverage/PythonProject$teht_2_3.coverage" NAME="teht.2.3 Coverage Results" MODIFIED="1770380906155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.2" />
-    <SUITE FILE_PATH="coverage/PythonProject$teht_3_1.coverage" NAME="teht.3.1 Coverage Results" MODIFIED="1770809445999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
-    <SUITE FILE_PATH="coverage/PythonProject$teht_3_3.coverage" NAME="teht.3.3 Coverage Results" MODIFIED="1770812697191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_4_1.coverage" NAME="teht.4.1 Coverage Results" MODIFIED="1772018268324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.4" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_3_3.coverage" NAME="teht.3.3 Coverage Results" MODIFIED="1772018509296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
     <SUITE FILE_PATH="coverage/PythonProject$teht_2_1.coverage" NAME="teht.2.1 Coverage Results" MODIFIED="1770211249788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.2" />
+    <SUITE FILE_PATH="coverage/PythonProject$d.coverage" NAME="d Coverage Results" MODIFIED="1770813447945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_3_2.coverage" NAME="teht.3.2 Coverage Results" MODIFIED="1772018168831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_4_4.coverage" NAME="teht.4.4 Coverage Results" MODIFIED="1772464915394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.4" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_2_4.coverage" NAME="teht.2.4 Coverage Results" MODIFIED="1770381311826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.2" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_4_3.coverage" NAME="teht.4.3 Coverage Results" MODIFIED="1772464402094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.4" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_2_3.coverage" NAME="teht.2.3 Coverage Results" MODIFIED="1770380906155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.2" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_1_1.coverage" NAME="teht.1.1 Coverage Results" MODIFIED="1770206064454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.1" />
+    <SUITE FILE_PATH="coverage/PythonProject$teht_3_1.coverage" NAME="teht.3.1 Coverage Results" MODIFIED="1770809445999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko.3" />
   </component>
 </project>
